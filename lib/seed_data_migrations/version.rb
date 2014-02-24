@@ -1,0 +1,3 @@
+module SeedDataMigrations
+  VERSION = "0.1.0"
+end

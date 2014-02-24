@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    data_migrations (0.0.1)
-      rails (~> 4.0.3)
+    seed_data_migrations (0.0.1.2)
+      rails (> 3.2.12)
 
 GEM
   remote: https://rubygems.org/
@@ -84,5 +84,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  data_migrations!
+  seed_data_migrations!
   sqlite3
