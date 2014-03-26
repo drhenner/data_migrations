@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = SeedDataMigrations::VERSION
   s.authors     = ["David Henner"]
   s.email       = ["drhenner@gmail.com"]
-  s.homepage    = "http://backops.co"
+  s.homepage    = "https://github.com/drhenner/data_migrations"
   s.summary     = "If you are migration seed data and only what the migration to run once it is best to log that the migration has already run."
   s.description = "If you are migration seed data and only what the migration to run once it is best to log that the migration has already run.  This separates data migrations from schema migrations."
 
