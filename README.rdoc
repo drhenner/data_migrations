@@ -18,8 +18,8 @@ run the following in the command line
 
 This is best shown by a example... (very similar to schema migrations)
 
-```
+`
    rails g seed_data_migrations  description_of_your_data_migration
       =>  create  db/seeds/20140224043148_description_of_your_data_migration.rb
    rake db:migrate_data
-```
+`
